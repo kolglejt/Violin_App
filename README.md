@@ -1,10 +1,11 @@
-# startingPoint
+Tools
 
-yarn install albo npm install
-yarn run dev - starujemy server
-yarn run start - sam webpack
+    React
+    Sass
+    Canvas
+    Webpack
+    React-easy chart
+    
+Screenshots
 
-albo 
-
-npm run dev 
-npm run start
+    
