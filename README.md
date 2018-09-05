@@ -1,3 +1,7 @@
+npm i 
+npm run dev
+
+
 Tools
 
     React
